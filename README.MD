@@ -2,4 +2,4 @@
 
 https://adventofcode.com/
 
-JS. Playing for fun on my own schedule, not trying to compete.
+Couldn't solve day19 :( had to look at reddit for solutions and felt too demoralized to do a rewrite of an existing one.
