@@ -2,4 +2,10 @@
 
 https://adventofcode.com/
 
-Couldn't solve day19 :( had to look at reddit for solutions and felt too demoralized to do a rewrite of an existing one.
+
+Were too hard for me: 
+Day 19
+Day 23
+
+Looked at soulitons:
+Day 22
